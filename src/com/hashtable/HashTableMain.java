@@ -21,3 +21,4 @@ public class HashTableMain {
         System.out.println(hashTable);
     }
 }
+
